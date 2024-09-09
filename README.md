@@ -66,7 +66,3 @@ Connect with us on [X](https://x.com/7685labs).
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-
